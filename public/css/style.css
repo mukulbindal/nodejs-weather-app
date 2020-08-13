@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    margin: 50px 200px;
+    text-align: center;
+}
+h1{
+    color: rgb(255, 255, 249);
+    background-color:rgb(160, 209, 255); 
+}
+
+.navbar a{
+    color: #333;
+    text-decoration: none;
+    
+}
+
+.footer{
+    margin-top: 370px;
+    color: rgb(255, 255, 249);
+    background-color:rgb(160, 209, 255); 
+}
